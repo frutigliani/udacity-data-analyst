@@ -6,9 +6,11 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 
 The tasks in this project are as follows:
 
-Data wrangling, which consists of:
-  Gathering data
-  Assessing data
-  Cleaning data
-Storing, analyzing, and visualizing the wrangled data
-Reporting on the data wrangling efforts and the data analysis and visualizations.
+1) Data wrangling, which consists of:
+ 
+  - Gathering data
+  - Assessing data
+  - Cleaning data
+ 
+2) Storing, analyzing, and visualizing the wrangled data
+3) Reporting on the data wrangling efforts and the data analysis and visualizations.
