@@ -8,9 +8,9 @@ The tasks in this project are as follows:
 
 1) Data wrangling, which consists of:
  
-  - Gathering data
-  - Assessing data
-  - Cleaning data
+   - Gathering data
+   - Assessing data
+   - Cleaning data
  
 2) Storing, analyzing, and visualizing the wrangled data
 3) Reporting on the data wrangling efforts and the data analysis and visualizations.
