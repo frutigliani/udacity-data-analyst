@@ -38,8 +38,4 @@ The second and third section (Bivariate and Multivariate Exploration) investigat
 - APR tends to be higher for lower income ranges. Curiously, not employed borrowers seem to get lower interest rates.
 - There is not a significant relationship between loan term, employment duration and APR.
 
-## Key Insights for Presentation
-
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
-
 
