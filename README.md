@@ -1,3 +1,3 @@
-# Udacity Data Analyst Nanodegree
+## Udacity Data Analyst Nanodegree
 
 Projects for Udacity Data Analyst Nanodegree Program
